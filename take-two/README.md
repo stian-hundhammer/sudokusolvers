@@ -1,0 +1,1 @@
+This is take two of my sudokusolvers. In this release, it simplifies how to check if a square is correct or not. Here I devide the checks into three lists, vertical - horizontal and three by three block that square belongs to.
